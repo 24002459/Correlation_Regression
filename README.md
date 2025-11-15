@@ -62,5 +62,4 @@ plt.legend(['Regression Line','Data points'])
 <img width="910" height="657" alt="image" src="https://github.com/user-attachments/assets/2812d2a2-62f0-4d7e-80a5-7d5ccbbb95f7" />
 
 # Result
-
-Analysed the given data using coeffificient of correlation and regression line.
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
